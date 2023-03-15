@@ -1,0 +1,169 @@
+                                     .
+ ________.         ________          :__________            karl*    _____\___.
+_\       |________/       /_________ |        _/________\________   /     \\  |
+_\\      |       /      _/_\ _      \|       /     _     \       \ //      \\ |
+|\\      |     _//     ___/_\\     \ \      //     |     _\     \ \/ /     _\\|
+| \\     :      /      |      \     \     _//      :      \\     \  /|      \\_
+|__\\__________/_______________\____|\_____/_______________\_____|\/ |_______\
+ <:-\-------------------------------------/--------------------------:------:-
+  .                                                                  .      |
+  |     P r o u d l y   P r e s e n t s                                     |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |       Title : Fantasy Strike (Update v17874)                            |
+  |                                                                         |
+  |   Publisher : Sirlin Games                Platform : Nintendo Switch    |
+  |   Developer : Sirlin Games                  Origin : eShop              |
+  |       Genre : Fighting                    Title ID : 0100944003820800   |
+  :        Date : September 2019                Format : 13x50MB / NSP      |
+  .__                                                                     //|
+  | /---------------------------------------------------------------------/_:
+  |//                                                                       .
+  |     R e l e a s e   N o t e s                                           |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |   Fantasy Strike is a colorful fighting game where fantasy meets        |
+  |   martial arts. It focuses on depth and strategy rather than            |
+  |   difficult execution. It's designed for tournament play, but also to   |
+  |   welcome you to the genre if you haven't played other fighting games   |
+  |   before. Online play uses the excellent GGPO networking technology.    |
+  |   Includes several single player modes.                                 |
+  |                                                                         |
+  |   Languages: English, French, Spanish and Japanese.                     |
+  |                                                                         |
+  |   Update/Patch Notes: v17874 (v393216) - Firmware: 8.1.0 / Mkey 7.0.    |
+  |                                                                         |
+  |   * This month, we have lots of bug fixes for you, all aimed at         |
+  |     making things work even more smoothly. There is a new feature for   |
+  |     music that allows you to sit in silence in the menus while          |
+  |     waiting for an online match, but then still have music when you     |
+  |     actually play. Also, Setsuki has one balance change, that fixes     |
+  |     an accidentally-too-good thing about her air C (Flying Fox) that    |
+  |     she's had for the last few months                                   |
+  |                                                                         |
+  |   * ONLINE                                                              |
+  |                                                                         |
+  |   * If your Master Rank changes when the tournament ends, the score     |
+  |     screen now shows the change correctly. It used to wrongly show      |
+  |     your same rank on this screen only (and update everywhere else)     |
+  |     if your rank changed                                                |
+  |                                                                         |
+  |   * After spectating a ranked match, you now correctly see your own     |
+  |     player data on various UI screens such as the rank shown in the     |
+  |     online play menu. Before, you'd wrongly see the data of the         |
+  |     player you previously spectated                                     |
+  |                                                                         |
+  |   * Now we actually show the correct player names on the character      |
+  |     roulette screen when spectating a friend match involving a team     |
+  |     battle                                                              |
+  |                                                                         |
+  |   * In the rematch menu for casual online matches, if you choose        |
+  |     "Next opponent", your opponent now immediately moves on, rather     |
+  |     than waiting for the full 10 second countdown to finish. We now     |
+  |     realize this bug has been happening for the last 10 months. Now     |
+  |     fixed                                                               |
+  |                                                                         |
+  |   * [Switch] Fixed a serious bug accidentally introduced last patch     |
+  |     that occurred when playing a second (or more) ranked match per      |
+  |     session. When you did, the character roulette screen would          |
+  |     sometimes suddenly send you to the main menu, ending the match,     |
+  |     or perhaps send you to a black screen forever if your opponent      |
+  |     suffered the "sent to main menu" bug. (Note, this was hotfixed      |
+  |     already on Steam/PS4, but Nintendo Switch patches take up to 20     |
+  |     days for approval so for that period of time, the Switch version    |
+  |     had this serious problem. Thankfully Valve and Sony allow for       |
+  |     immediate patches.)                                                 |
+  |                                                                         |
+  |   * When your previously-sent challenge gets accepted right after you   |
+  |     would start a casual online or ranked online game, during the       |
+  |     short "Here comes a new challenger" animation, we now drop the      |
+  |     challenge and continue with your queued online match. The queued    |
+  |     match got there first. This fixes you getting stuck in a black      |
+  |     screen, your casual online opponent having their online match       |
+  |     interrupted as it starts, and your friend match opponent being      |
+  |     set in a silent bad state where mysterious bad things happen        |
+  |                                                                         |
+  |   * MISC                                                                |
+  |                                                                         |
+  |   * New music option. In addition to music on or off, there is now      |
+  |     "gameplay only". When this is set, there will not be music in the   |
+  |     menus, but there will be music in gameplay. An example use of       |
+  |     this is idling (in silence) in the menus while you wait for an      |
+  |     online match, while getting to hear music during your actual        |
+  |     match                                                               |
+  |                                                                         |
+  |   * Setsuki's air C (Flying Fox) has a little more upward force. This   |
+  |     fixes an issue accidentally introduced many months ago that         |
+  |     allowed Setsuki to do air C towards the opponent, let it finish,    |
+  |     then do it again (the same direction) and be so low that she        |
+  |     cancelled the rest of the move by landing and ended up at +12 on    |
+  |     block. In much older builds, she would pull up at the end which     |
+  |     made her unsafe, rather than land instantly. This change restores   |
+  |     it to more like it was meant to be. Note that if you want to make   |
+  |     the opponent block air C, then have a lot of frame advantage, you   |
+  |     still can. Just do air C -> A (divekick). But this sequence         |
+  |     triggers only one point of flashing block damage (from the air      |
+  |     C), rather than two (from air C x 2). Alternatively, you can        |
+  |     STILL do air C -> air C and end up at frame advantage, but only     |
+  |     if you do it from a precise, far away distance or if you do it      |
+  |     from close on the way down from a jump. Either way, you can no      |
+  |     longer repeat that sequence as a lockdown                           |
+  |                                                                         |
+  |   * Fixed a bug with the tutorial dummies in the section about          |
+  |     combos. When you press B to combo a projectile into them, if you    |
+  |     happened to hold B for a certain number of frames, the dummy        |
+  |     would have no hitbox and the projectile would pass through. Rare    |
+  |     because of the specific timing involved, but now fixed              |
+  |                                                                         |
+  |   * Fixed buggy controls for the top-right menu when on the 1p          |
+  |     character select screen (e.g. Arcade Mode's character select)       |
+  |                                                                         |
+  |   * [Steam] Fixed a bug on the friends list screen where dropdown       |
+  |     menus could appear partially off screen at certain resolution       |
+  |     settings                                                            |
+  |                                                                         |
+  |   * [Switch] When using detached joycons, pressing the analog stick     |
+  |     in no longer calls the Friends screen                               |
+  |                                                                         |
+  |   * [Steam] Fixed a category of bad states when you use a secondary     |
+  |     monitor and attempt to use a fullscreen resolution that's not       |
+  |     supported for that monitor. (Instead of getting stuck in a loop     |
+  |     of either refreshing the list of resolutions every frame (merely    |
+  |     breaks the resolution dropdown UI), or remembering an incorrect     |
+  |     resolution for next launch, or actually setting an incorrect        |
+  |     resolution every frame (disaster!), the game now accepts the        |
+  |     resulting lower resolution than what it attempted to set.)          |
+  |                                                                         |
+  |   * Fixed a memory leak with arcade mode. This particular issue also    |
+  |     caused the game to crash if the leak happened, then you later       |
+  |     entered arcade mode again                                           |
+  |                                                                         |
+  |   * Fixed a crash that could happen when DeGrey's ghost deals block     |
+  |     damage that wins the round (meaning, when the opponent loses        |
+  |     their last hit point to this block damage)                          |
+  |                                                                         |
+  |   * Fixed a camera bug introduced last patch where the camera would     |
+  |     not scroll up enough when both characters jumped. Now reverted to   |
+  |     how it always was                                                   |
+  |                                                                         |
+  |   * Fixed a camera bug introduced last patch having to do with moves    |
+  |     that briefly lock the camera in place. This issue was barely        |
+  |     noticeable in most cases, except for Setsuki's B ninjaport          |
+  |     kick/throw, where the camera issue was very noticeable and buggy    |
+  |     (too jerky)                                                         |
+  :                                                                         |
+  .__                                                                     //|
+  | /---------------------------------------------------------------------/_:
+  |//                                                                       .
+  |     G r e e t i n g s                                                   |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |            Abstrakt . Anthrox . Capital . Caravan . Complex             |
+  |    Dual Crew Shining . Duplex . Echelon . Eurasia . Kalisto . Legacy    |
+  |    Lightforce . Menace . Miracle . Mode 7 . Money . Mystic . Napalm     |
+  |    Nightfall . Oldskool . Paradox . Premiere . Project X . Protocol     |
+  |      Quartex . Quasar . Rising Sun . Scoopex . Sneakers . Triforce      |
+  |                                                                         |
+ -:-------------------------------------------------------------------------:>
+  |                                                                         |
+  .               VENOM - Fighting with strategy! Since 2001.               .
